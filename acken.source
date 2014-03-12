@@ -78,6 +78,5 @@
       "package": "update-diagram.oipkg"
     }
   ],
-  "origin": "https://raw.github.com/acken/oi-packages/master/acken.sourcee",
-  "base": "/home/ack/bin/oi-packages/"
+  "origin": "https://raw.github.com/acken/oi-packages/master/acken.source"
 }

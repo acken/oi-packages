@@ -78,6 +78,5 @@
       "package": "update-diagram.oipkg"
     }
   ],
-  "origin": "/home/ack/bin/oi-packages/local.source",
-  "base": "/home/ack/bin/oi-packages/"
+  "origin": "/home/ack/bin/oi-packages/local.source"
 }
