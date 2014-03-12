@@ -1,0 +1,83 @@
+{
+  "packages": [
+    {
+      "id": "alive",
+      "version": "v1.0",
+      "name": "OpenIDE alive check",
+      "description": "Checks if any processes related to OpenIDE is running.",
+      "package": "alive.oipkg"
+    },
+    {
+      "id": "find",
+      "version": "v1.0",
+      "name": "find",
+      "description": "Code search matching on file contents, path and type",
+      "package": "find.oipkg"
+    },
+    {
+      "id": "goto",
+      "version": "v1.0",
+      "name": "Goto file",
+      "description": "Opens a file in the text editor",
+      "package": "goto.oipkg"
+    },
+    {
+      "id": "init",
+      "version": "v1.0",
+      "name": "Ack Init",
+      "description": "Custom init script creating profile and sublime project",
+      "package": "init.oipkg"
+    },
+    {
+      "id": "locate",
+      "version": "v1.0",
+      "name": "locate",
+      "description": "Finds files by name",
+      "package": "locate.oipkg"
+    },
+    {
+      "id": "php-new",
+      "version": "v1.0",
+      "name": "php-new",
+      "description": "Script for generating php files",
+      "package": "php-new.oipkg"
+    },
+    {
+      "id": "run-in-browser",
+      "version": "v1.0",
+      "name": "Continuous Web",
+      "description": "Opens an edited html page in the browser. Triggers on .html, .css and .js",
+      "package": "run-in-browser.oipkg"
+    },
+    {
+      "id": "sources",
+      "version": "v1.0",
+      "name": "Sources Manager",
+      "description": "Package source list management",
+      "package": "sources.oipkg"
+    },
+    {
+      "id": "symfony-app",
+      "version": "v1.0",
+      "name": "Symfony app",
+      "description": "Forward script to symfonys app/console",
+      "package": "symfony-app.oipkg"
+    },
+    {
+      "id": "tryout",
+      "version": "v1.0",
+      "name": "Language tryout",
+      "description": "Creating a temporary space for trying out stuff.",
+      "package": "tryout.oipkg"
+    },
+    {
+      "id": "update-diagram",
+      "version": "v1.0",
+      "name": "Continuous Graphviz",
+      "description": "Reacts on graphviz diagram changes. Needs graphviz installed. Also uses the Remote Control plugin for firefox to pipe browser updates through port 32000",
+      "package": "update-diagram.oipkg"
+    }
+  ],
+  "origin": "/home/ack/bin/oi-packages/local.source",
+  "base": "/home/ack/bin/oi-packages/"
+}
